@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">pm25</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="table_header_accelerometer">Accelerometer Data</string>
+    <string name="table_row_x">X:</string>
+    <string name="table_row_y">Y:</string>
+    <string name="table_row_z">Z:</string>
+    <string name="table_row_accuracy">Accuracy:</string>
+    <string name="table_header_orientation">Orientation Data</string>
+    <string name="table_header_bluetooth">Bluetooth Info</string>
+    <string name="table_header_pm25">PM25 Data</string>
+    <string name="table_row_state">State:</string>
+    <string name="table_row_target">Target:</string>
+    <string name="table_row_pm25">PM25:</string>
+    <string name="table_row_pm10">PM10:</string>
+    <string name="value_na">n/a</string>
+    <string name="value_no">no</string>
+    <string name="value_yes">yes</string>
+    <string name="value_enabling">enabling ...</string>
+    <string name="value_enabled">enabled</string>
+    <string name="value_disabling">disabling ...</string>
+    <string name="value_disabled">disabled</string>
+    <string-array name="sensor_accuracy">
+        <item >unreliable</item>
+        <item >low</item>
+        <item >medium</item>
+        <item >high</item>
+    </string-array>
+    <string name="no_bluetooth_modem">Bluetooth not available</string>
+    <string name="bluetooth_enabled">Bluetooth activated</string>
+    <string name="bluetooth_not_enabled">Bluetooth deactivated</string>
+    <string name="scanning">scanning for devices ...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="non_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="button_inquiry">Inquiry Data</string>
+
+</resources>
